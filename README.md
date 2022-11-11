@@ -1,6 +1,6 @@
 # AB slot tools for MTK
 
-This tool is able to change the boot_ctl struct in misc partition,and makes you phone automatically change slot when your phone cannot boot to current slot when you have done something dangerous.
+This tool is able to change the boot_ctl struct in misc partition,and makes you phone automatically change slot when your phone cannot boot to current slot.
 
 
 
